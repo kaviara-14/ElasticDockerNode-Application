@@ -44,5 +44,6 @@ This will start your Node.js app in the Docker container, accessible via the EC2
 
 ### 7. Attach Elastic IP Address 
 Go to the Elastic IPs in the AWS EC2,Allocate a new Elastic IP address.And Associate the Elastic IP with your EC2 instance.After attaching the Elastic IP, your Node.js application will be accessible via the Elastic IP at port 80.
+
 ![Screenshot 2024-09-06 065907](https://github.com/user-attachments/assets/63af9702-8954-410c-baa3-469f201236ab)
 ![Screenshot 2024-09-06 065938](https://github.com/user-attachments/assets/222b79cf-97a5-48a3-92f2-8e60d28059f2)
